@@ -20,7 +20,26 @@
 
 ### Kimera-VIO
     Paper: Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities
+    mesh reconstruction
+
+### Mesh Transformer
+    Metric-semantic understanding
+    capability 3D geometry - a facility on a computer for performing a specified task
+    
+    semantic label 
+    Geometric information 
+    to manipulate objects
+    ideal value of abstraction
+    execute
+    models of the environment
+    unprecedent progress 
+    Structure from Motion, 
+    Multi-View Stereo
+    semantic segmentation
+    in isolation
+    applications at intersection
     
              
+
 
 
