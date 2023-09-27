@@ -27,8 +27,13 @@
     capability 3D geometry - a facility on a computer for performing a specified task
     
     semantic label      name label
-    Geometric information  x,y,z height depth theta pi delta gps
+    Geometric information 
+    Geometry 
+    
+
+    
     to manipulate objects move object from other to other
+    
     ideal value of abstraction 4.223232 -> 4.3
     execute pull out
     models of the environment  A, B, C, else
@@ -80,6 +85,7 @@
     SegMap
     Voxblox++
 
+    
     
     
 
