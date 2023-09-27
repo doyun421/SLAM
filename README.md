@@ -1,8 +1,5 @@
 # SLAM
-
-                                              ### Kimera-RPGO
-                                                          Paper: an Open-Source Library for Real-Time Metric-Semantic Localization and Mapping
-                                                          
+     
 
 ## Kimera
     real-time metric-semantic simultaneous localization and mapping
@@ -21,7 +18,9 @@
     7) Odometry of robots, and agents
     8) Poses of static objects
 
+### Kimera-VIO
+    Paper: Incremental Visual-Inertial 3D Mesh Generation with Structural Regularities
+    
+             
 
 
-    
-    
