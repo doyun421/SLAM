@@ -54,11 +54,13 @@
 
     metric and semantic understanding 
     in several aspects -?
-    inertial sensing
-    borader variety of 
+    inertial sensing resistance to change in some other physical property.
+    borader variety of  having an ample distance from side to side; wide.
+
     related work - which?
-    scalable 
-    robustness
+    scalable able to be changed in size or scale.
+    robustness the ability to withstand or overcome adverse conditions or rigorous testing.
+
     art outlier rejection 
     to ensure 
     executes 
@@ -66,20 +68,37 @@
 
     Related Work 
     refer the reader to Table I
-    comparison against competitor?
+    comparison against competitor? 
+    a consideration or estimate of the similarities or dissimilarities between two things or people.
+"they drew a comparison between Gandhi's teaching and that of other teachers"
+
     broader review
     were designed for offline processing
     surge of interest towards real-time why use toward instead of on?
+    a sudden and great increase:
+
+    
     triggered by pioneering works
+    a part of a gun that causes the gun to fire when pressed:
+
+
     GPU processing not using process?
     alternate tracking
     truncated signed distance function
+    made shorter or quicker, especially by removing the end of something:
+    
 
     surfel
     SemanticFusion
     A sparser set of contributions address
+    small in numbers or amount, often spread over a large area
+    
     modalities
+    a particular way of doing or experiencing something:
+    
     monocular camerasVSO
+    for, using, or relating to one eye:
+    
     VITAMIN-E
     XIVO
     SegMap
