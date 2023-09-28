@@ -100,7 +100,78 @@
     monocular camerasVSO
     for, using, or relating to one eye:
     
-    VITAMIN-E
+   ## VITAMIN-E 
+    visual tracking
+    by eyes track a object as creating some lines by eyes' movement
+    
+    extremely 
+    =very
+    
+    Dense feature
+    
+    ![image](https://github.com/doyun421/SLAM/assets/73266189/5d54f8b8-bf79-42f8-b6ed-a84868fa4cc6)
+
+
+    what is a feature?
+In machine learning, features refer to the measurable and quantifiable properties or characteristics of an object, person, or phenomenon.
+
+
+    established
+    having been in existence for a long time 
+    
+    sufficient
+    enough; adequate.
+
+    particularly why used
+    to a higher degree than is usual or average.
+
+    
+    differentation between stereo camera and RGB-D camera
+    stereo camera :  is a type of camera with two or more lenses with a separate image sensor or film frame for each lens. 
+    RGB-D camera :  a type of depth camera that provides both depth (D) and color (RGB) data as the output in real-time.
+
+    
+    why pure used
+    not mixed or adulterated with any other substance or material.
+
+
+    photometric error
+     예측된 타겟 이미지와 실제 타겟 이미지 사이에 차이가 날 것입니다. 이 차이를 photometric error라고 하며
+    
+    intensity
+    
+    reprojection
+    monochrome 
+    LSD-SLAM
+    SWO
+    DSO
+    unlike indirect
+    denser
+    susceptible
+    luminance
+    fluctuation
+
+    aberration
+    drawback
+    Bergmann
+
+    narmalization
+    luminance
+
+    auto-exposure
+    PTAM
+    ORB-SLAM
+    
+
+
+
+
+
+
+
+
+    
+    
     XIVO
     SegMap
     XIVO
@@ -154,14 +225,81 @@
 
     ROS
     modular
+
+    replacing each module or executing them in isolation is same meaning?
+
+    II. Kimera
+    high-rate
+    highly state
+    IMU rate
+
+    globally-consistent
+    trajectory
+
+    semantically
+    heavily
+    parallelized 
+    threads
+
+    accommodate
+    different rates
+    keyframes
+    section II-A
+
+    stereo images
+    IMU data
+
+    feature tracks
+    measurements
+
+    optimized
+    low-latency
+    designed 
+    functionality
+    path planning
+
+    loop closure
+    
+    a-posteriiori
+    full smoothing
+    fixed-lag
+    time horizon
+    bound
+    extend
+
+    monocular instead of mono?
+    fuses
+    sensor biases
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     
     
     
 
-    고통을 예측하면 고통이 올 때 대비가 시워진다. 
     꼼꼼하게 하고 싶음 완벽하게 다 소화하고 싶음. 
     어떤 논문이든 다 설명할 수 있는 수준으로 빠르게 말하면 됨 
-    
+
+    그냥 다 정리하고 난 다음에 뭐든 할 수 있을 듯
     속도를 높이고 싶음
     
 
