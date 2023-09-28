@@ -149,7 +149,86 @@ In machine learning, features refer to the measurable and quantifiable propertie
     the measurable amount of a property, such as force, brightness, or a magnetic field.
 "hydrothermal processes of low intensity"
 
+
+    Kimera-Mesher
+    per-frame 1개씩의 frame
+    multi-frame 다수의 액자형식의 프레임
+    regularized 
+    support obstacle avoidance
+
+    mesher
+
+    Kimera-Semantics
+    volumetric approach
+    relating to the measurement of volume.
     
+    annotates 
+    add notes to (a text or diagram) giving explanation or comment.
+    ad note 
+    
+    2D pixel-wise
+    In terms of pixels; one pixel at a time
+
+    ROS
+    modular
+
+    replacing each module or executing them in isolation is same meaning?
+
+    II. Kimera
+    high-rate
+    used to describe a loan, credit card, etc. on which you pay a lot of interest: Beware of high-rate credit cards 
+    
+    highly state
+    high degree or very
+
+    
+    IMU rate
+     is a device that can measure and report specific gravity and angular rate of an object to which it is attached
+    5 to 20 °/h
+
+    globally-consistent
+    always behaving or happening in a similar, especially positive, way:
+    There has been a consistent improvement in her attitude.
+    
+    
+    trajectory
+    the path followed by a projectile flying or an object moving under the action of given forces.
+    projectile
+    an object propelled through the air, especially one thrown as a weapon.
+    
+
+    semantically
+    Phrases, being more semantically complex than single words
+    
+    heavily
+    to a great degree; in large amounts.
+"it was raining heavily"
+
+    parallelized 
+    adapt (a program) for running on a parallel processing system.
+"special software parallelizes C-based programs"
+
+    threads
+
+A thread is a separate flow of execution. This means that your program will have two things happening at once. But for most Python 3 implementations the different threads do not actually execute at the same time: they merely appear to.
+
+    accommodate
+    fit in with the wishes or needs of.
+"any language must accommodate new concepts"
+
+    different rates
+    keyframes
+    A keyframe, also written as “key frame,” is something that defines the starting and/or ending point of any smooth transition. That something can be a drawing in animation or a particular frame of a shot when dealing with film or video
+
+
+
+
+
+
+
+
+
+        
     reprojection
     To change the projection (or coordinate system) of spatial data with another projection.
     
