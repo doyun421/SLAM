@@ -101,6 +101,8 @@
     for, using, or relating to one eye:
     
    ## VITAMIN-E 
+   applications such as autonomous systems -> such as is same with examples
+   
     visual tracking
     by eyes track a object as creating some lines by eyes' movement
     
@@ -118,6 +120,7 @@ In machine learning, features refer to the measurable and quantifiable propertie
 
     established
     having been in existence for a long time 
+    = made 의 high quality version]
     
     sufficient
     enough; adequate.
