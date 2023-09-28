@@ -139,10 +139,23 @@ In machine learning, features refer to the measurable and quantifiable propertie
      예측된 타겟 이미지와 실제 타겟 이미지 사이에 차이가 날 것입니다. 이 차이를 photometric error라고 하며
     
     intensity
+    intense 
+    of extreme force, degree, or strength.
+    the quality of being intense.
+"the pain grew in intensity"
+    the measurable amount of a property, such as force, brightness, or a magnetic field.
+"hydrothermal processes of low intensity"
+
     
     reprojection
+    To change the projection (or coordinate system) of spatial data with another projection.
+    
     monochrome 
+    a photograph or picture developed or executed in black and white or in varying tones of only one color.
+    ex only red or only yellow only pink , etc.
+    
     LSD-SLAM
+    
     SWO
     DSO
     unlike indirect
