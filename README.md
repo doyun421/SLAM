@@ -67,7 +67,7 @@
     tuning across a variety of scenarios
 
     Related Work 
-    refer the reader to Table I
+    refer the reader to Table I 
     comparison against competitor? 
     a consideration or estimate of the similarities or dissimilarities between two things or people.
 "they drew a comparison between Gandhi's teaching and that of other teachers"
@@ -75,7 +75,8 @@
     broader review
     were designed for offline processing
     surge of interest towards real-time why use toward instead of on?
-    a sudden and great increase:
+    a sudden and great
+    increase:
 
     
     triggered by pioneering works
@@ -158,9 +159,6 @@
     
 
     고통을 예측하면 고통이 올 때 대비가 시워진다. 
-    오늘 7시에서 12시까지는 집중이 어려움. 
-    남자친구도 일하고 싶을 듯.. 
-    그럼 차라리 노트북 갖고 오라고 하면 안되나. 
     꼼꼼하게 하고 싶음 완벽하게 다 소화하고 싶음. 
     어떤 논문이든 다 설명할 수 있는 수준으로 빠르게 말하면 됨 
     
