@@ -399,4 +399,11 @@ A thread is a separate flow of execution. This means that your program will have
     
 
 
+정말 최대로 모두 정리하고 
+밥은 심각하고 주거도 심각하다
+명절을 날 자격이 없다
+내일 아침에 1시에는 꼭 집에
+가서 마저 정리하길
+
+일 월 화 수 
 
