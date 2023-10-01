@@ -381,10 +381,16 @@ Bergmann is a German or Swedish surname. It means "mountain man" in both languag
     path planning
 
     loop closure
+    Loop closure is. the recognition of when the robot has returned to a previously mapped region and the use of this information to reduce the uncertainty in the map estimate. Without loop closure, the uncertainty grows without bounds.
+    
     
     a-posteriiori
+    s literally, "from what is later." 
+    
     full smoothing
     fixed-lag
+    In fixed-lag smoothing we want to obtain an estimate of the state at time (k - N) given measurements up to and including time k, where the time index k continually changes as we obtain new measurements, but the lag N is a constant.
+    
     time horizon
      is a fixed point of time in the future at which point certain processes will be evaluated or assumed to end.
     bound
