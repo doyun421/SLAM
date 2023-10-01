@@ -154,7 +154,10 @@ In machine learning, features refer to the measurable and quantifiable propertie
     per-frame 1개씩의 frame
     multi-frame 다수의 액자형식의 프레임
     regularized 
+    the normal pattern 
+    
     support obstacle avoidance
+    the action of keeping away from or not doing something.
 
     mesher
 
@@ -241,16 +244,40 @@ A thread is a separate flow of execution. This means that your program will have
     SWO
     DSO
     unlike indirect
+    different from; not similar to.
+    not straight; not following the shortest wa
+    
     denser
+    closely compacted in substance.
+
     susceptible
+    likely or liable to be influenced or harmed by a particular thing.
+"patients with liver disease may be susceptible to infection"
+
     luminance
+    the intensity of light emitted from a surface per unit area in a given direction.
+the component of a television signal which carries information on the brightness of the image.
+
     fluctuation
+    an irregular rising and falling in number or amount; a variation.
+"fluctuations in the yearly values could be caused by a variety of factors"
+
 
     aberration
+    a departure from what is normal, usual, or expected, typically one that is unwelcome.
+    "they described the outbreak of violence in the area as an aberration"
+    정도에서 벗어남
+    A departure is the act of leaving somewhere
+    
     drawback
+    a feature that renders something less acceptable; a disadvantage or problem.
+    
     Bergmann
+Bergmann is a German or Swedish surname. It means "mountain man" in both languages,
+
 
     narmalization
+    
     luminance
 
     auto-exposure
@@ -359,15 +386,25 @@ A thread is a separate flow of execution. This means that your program will have
     full smoothing
     fixed-lag
     time horizon
+     is a fixed point of time in the future at which point certain processes will be evaluated or assumed to end.
     bound
+    a leaping movement upward.
+"I went up the steps in two effortless bounds"
+
     extend
 
     monocular instead of mono?
+     A monocular is a type of telescope — an optical device that magnifies distance objects using curved lenses or mirrors that gathers and focuses light or other forms of infrared radiation 
+     
     fuses
-    sensor biases
+    a safety device consisting of a strip of wire that melts and breaks an electric circuit if the current exceeds a safe level.
     
+    sensor biases
+    When looking at the inertial sensor data of gyroscopes and accelerometers you can see that there is often a small offset in the average signal output, even when there is no movement.
 
-
+    offset
+    the amount or distance by which something is out of line
+    
 
 
 
@@ -428,6 +465,40 @@ A thread is a separate flow of execution. This means that your program will have
 차돌이 효과가 좋다 
 
 김치랑 차돌 
+
+
+
+차돌 김치찌개 잘 먹음
+애호박 잔치국수도 잘 먹음
+밥은 콩밥 말고 쌀밥으로
+그리고 과일 적절히 
+
+
+
+차돌 김치찌개, 밥, 계란, 과일
+
+애호박 잔치국수
+닭도리탕
+토마토 수프 
+
+반찬은 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
