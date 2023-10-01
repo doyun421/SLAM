@@ -464,5 +464,7 @@ A thread is a separate flow of execution. This means that your program will have
 회사는.. 제발 다음 주 다다음 주 결정 되길..
 
 
+식단이 정비 되어 있어야 안정감을 찾는다.
+
 
 
