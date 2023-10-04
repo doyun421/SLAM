@@ -364,21 +364,54 @@ Bergmann is a German or Swedish surname. It means "mountain man" in both languag
     threads
 
     accommodate
+    (of physical space, especially a building) provide lodging or sufficient space for.
+"the cabins accommodate up to 6 people"
+
     different rates
+    a measure, quantity, or frequency, typically one measured against some other quantity or measure.
+"the crime rate rose by 26 percent"
+
     keyframes
+    key frame,” is something that defines the starting and/or ending point of any smooth transition. 
+    That something can be a drawing in animation or a particular frame of a shot when dealing with film or video.
+     
     section II-A
 
     stereo images
+     the aspect of sound recording and reproduction of stereophonic sound concerning the perceived spatial locations of the sound source(s), both laterally and in depth.
+     
+     ![image](https://github.com/doyun421/SLAM/assets/73266189/6e3ced60-fb11-40cb-9887-b1ccd597812f)
+
+     
     IMU data
+    accelerator speed, velocity speed, direction x, y, z as vector.
+    angular rates and magnetic field measurements
+    
 
     feature tracks
+    period, genre, style or culture
+    
+    What is the meaning of track?
+a mark or line of marks left on a surface, esp. the ground, by a moving animal, person, or vehicle, that shows the direction of travel: deer tracks in the snow.
+
+
     measurements
 
     optimized
+    make the best or most effective use
+    of (a situation, opportunity, or resource).
+"to optimize viewing conditions, the microscope should be correctly adjusted"
+
+
     low-latency
+    Low latency describes a computer network that is optimized to process a very high volume of data messages with minimal delay (latency).
+    
     designed 
+    
     functionality
     path planning
+    Path planning is the most important issue in vehicle navigation. It is defined as finding a geometrical path from the current location of the vehicle to a target location such that it avoids obstacles.
+    
 
     loop closure
     Loop closure is. the recognition of when the robot has returned to a previously mapped region and the use of this information to reduce the uncertainty in the map estimate. Without loop closure, the uncertainty grows without bounds.
