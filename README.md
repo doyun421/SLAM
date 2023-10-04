@@ -425,20 +425,8 @@ Bergmann is a German or Swedish surname. It means "mountain man" in both languag
 
 
 
-
-
-
-
-
-    
-    
-    
-
-음식 걱정 안하는 방법
-그렇다고 사먹는 거 외에 집에서 먹는 방법
-역겹지 않는 방법
-신선한 방법
-
-
+그냥 제일 지저분 한 거 먼저 처리하기. 
+적어도 그것만 해도 나머지는 수월함. 
+설거지 처럼..
 
 
