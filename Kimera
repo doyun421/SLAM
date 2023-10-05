@@ -10,6 +10,55 @@ The United States Patent and Trademark Office (USPTO) defines a patent for an in
 
 To join usa community via telegram or else as business provisor.
 
+
+Kimera-Multi
+incorrect inter and intra-robot loop closures
+robot asso can returned to be incorrect in loop closures so cannot find their locations for helping elders. 
+
+The problem of Simultaneous Localization and Mapping(SLAM) suffers from drift in long run odometry and the only way to correct that is by graph optimization based on loop closure detection, where a robot is able to correct its location precisely if it detects that it is at a place which was visited before
+It is used in robotics by some legged or wheeled robots to estimate their position relative to a starting location.
+
+Visual odometry (VO) is a common solution for obtaining robust and consistent relative motion estimates of the vehicle frame. Contrarily, Global Positioning System (GPS) measurements are typically used for absolute positioning and localization.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+오늘
+10:00까지 patent 정리하고 
+SLAM 정리해서 
+자기소개서랑 깃 모두 정리 후 코드 실행 하고 
+관련 논문 작성해서 올리기. 
+그리고 인터뷰도 잡기.
+인터뷰 연습도 하기. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Patent
 
 Step 1. IP intellectual property protection I need
