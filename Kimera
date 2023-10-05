@@ -20,7 +20,9 @@ It is used in robotics by some legged or wheeled robots to estimate their positi
 
 Visual odometry (VO) is a common solution for obtaining robust and consistent relative motion estimates of the vehicle frame. Contrarily, Global Positioning System (GPS) measurements are typically used for absolute positioning and localization.
 
-
+### Visual Odometry with Loop Closure Detection 
+### Loop Closure Detection
+      
 
 
 
