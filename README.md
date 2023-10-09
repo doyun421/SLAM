@@ -263,6 +263,7 @@ the component of a television signal which carries information on the brightness
 "fluctuations in the yearly values could be caused by a variety of factors"
 
 
+
     aberration
     a departure from what is normal, usual, or expected, typically one that is unwelcome.
     "they described the outbreak of violence in the area as an aberration"
