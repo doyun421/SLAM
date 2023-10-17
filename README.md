@@ -1,6 +1,43 @@
 # SLAM
      
 
+
+image breaking
+10-17 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Kimera
     real-time metric-semantic simultaneous localization and mapping
     1) Inertial Odometry (Kimera-VIO)
