@@ -495,7 +495,23 @@ such as a person more than aged 65 years, disabled person, etc.
 
 technology of robotics field are Computer Vision, Natural language processing, Edge computing, Complex event process, HW acceleration, Reinforcement Learning, GANs, etc. 
 
+## Computer Vision
 Computer Vision means that enables computers and systems to derive meaningful information from digital images, videos and other inputs. 
+Other inputs except images, video can be exampled as MRI, FFT, Motor, Frequencies, Audio Signals, RF, Voltage/Current, Electromagnetic wave, Analog signal, Digital Signal, Energy and Power, etc. 
+
+### RF signals 
+RF is Radio Frequency that is the oscilation rate of an alternating electric current or voltage or of a magnetic, electric or electromagnetic field or mechanical system in the frequency range from around 20 kHz to around 300GHz. This is roughly between the upper limit of audio and lower limit of infrared frequencies. 
+
+RF signal usually used for Cordless and Cellphones, radio and television broadcast stations, Wi-Fi and Bluetooth, satellite communications systems. 
+
+In addition, 
+other appliances outside of communications, including microwave ovens and garage door openers. Some wireless devices like TV remote controls, computer keyboards, computer mice, operate at IR frequencies which have shorter electromagnetic wavelengths. 
+
+### Electromagnetic Field signals
+Electromagnetic Field signals can be derived from whenever electric charges are accelerated. This make it possible to produce electromagnetic waves by letting an alternating current flow through a wire, an antenna. The frequency of the waves created in this way equals the frequency of the alternating current. 
+
+Magnet is a material or object that produces a magnetic field. 
+
 There are sensors as camera sensors or lidar sensors 
 robotics field need several sensors like camera, lidar, radar, Xavier, Ram, SSD
 SSD for storing memory of camera, SSD;s capacity needed as a day needed 필요량, 
