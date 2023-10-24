@@ -554,3 +554,13 @@ first of all creating any code for setting a robots.
 making hardware of robots as a humanoid or make any appliance of kitchen to sell. as a start business. 
 
 
+변리사 민특상디 개념 및 기출문제 정리 하루 3시간 * 
+민법 하루 626p + 기출 400 문 
+100일의 기적 
+7p + 4문제
+특허/상표/디자인보호 각 7p + 4 문제 
+자연과학 생물화지 각 4 문제 
+하루 6시간 필요함. 
+
+
+
