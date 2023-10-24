@@ -483,21 +483,31 @@ a mark or line of marks left on a surface, esp. the ground, by a moving animal, 
     the amount or distance by which something is out of line
     
 
+일단 내 마음대로 다 적고 최대한 성심성의껏 적고 나서 수정하는 게 제일 마음 편하다. 
+생각보다 나는 똑똑하기에 
+그저 최대한 많이 많이 적을 수 없을 정도로 적고 난 뒤에 
+다시 적는 것도 방법
 
 
+robotics field important thing is to generate services for help need persons. 
 
 
+such as elder persons aged person, disabled person, etc. 
 
+technology for robotics field was visioning all camera sensors or lidar sensors 
+robotics field need several sensors like camera, lidar, radar, Xavier, Ram, SSD
+SSD for storing memory of camera, SSD;s capacity needed as a day needed 필요량, 
+as a personal robots for helping elders for one person as business to showering themselves with robotics' arms need to support other persons' body's weights at least 40kg to 110kg 
+it can be use in fattest person showering. 
+also it can reduce the 욕창 who always lay down on the bed so cannot move by themselves so it resulted to generate any pains on their backs. 
 
+also 
+trying to guess their minds to make them comfortable as feeling when they using their robots. 
 
+like roborock company which has vacuum wireless robots for cleaning their living room or any rooms in residences. 
 
+first of all creating any code for setting a robots. 
 
-
-
-
-
-그냥 제일 지저분 한 거 먼저 처리하기. 
-적어도 그것만 해도 나머지는 수월함. 
-설거지 처럼..
+making hardware of robots as a humanoid or make any appliance of kitchen to sell. as a start business. 
 
 
