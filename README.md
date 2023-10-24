@@ -512,13 +512,32 @@ Electromagnetic Field signals can be derived from whenever electric charges are 
 
 Magnet is a material or object that produces a magnetic field. 
 An electromagnet is made by winding an insulated copper wire around a soft iron core either in the shape of a solenoid or U-shape and passing current through it. 
+(iron, steel, nickel, cobalt, etc)
 
 The strength of magnetic field of an electromagnet depends on 
      1. The number of turns of wire wound around the coil.
      2. The amount of current flowing through the wire. 
 
-     
-There are sensors as camera sensors or lidar sensors 
+### Sensors
+There are sensors such as proximity sensor, thermometer, accelerator, pressure sensor, optics, gyroscope, position sensor, ultrasonic transducer, Thermocouple, photoelectric sensor, photodetector, hygrometer, light, hall effect sensor, infrared, motion detector, capacitive sensing, microelectromechanical, touch switch, thermistor, passive infrared sensor, pressure, 
+ultrasound, temperature sensors, etc. 
+
+Proximity sensor is a sensor able to to detect the presense of nearby objects without any physical contact. A proximity sensor often emits an electromagnetic field or a beam of electromagnetic radiation (infrared, for instance), and looks for changes in the field or return signal. 
+
+Thermometer(infrared sensor) can detect other infrared signal from human so it revealed as temperature of body. 
+
+An ultrasonic sensor is an instrument that measures the distance to an object using ultrasonic sound waves. An ultrasonic sensor uses a transducer to send and receive ultrasonic pulses that relay back information about an object's proximity.
+
+
+An active ultrasonic motion detector emits ultrasonic sound waves that reflect off objects and bounce back to the original emission point. When a moving object disrupts the waves, the sensor triggers and completes the desired action, whether this is switching on a light or sounding an alarm. higher than acoustic (human hearing signal) and higher than infrasound (which is lower than acoustic) acoustic 20~20kHz.
+
+Principal of infrared sensor/ultrasonic sensor
+IR transmitter(lightening) is a light emitting diode(LED) which emits infrared radiations. 
+When operated at a supply of 5V, the IR transmitter consumes about 3 to 5 mA of current. Infrared transmitters can be modulated to produce a particular frequency of infrared light. 
+
+IR Receiver 
+are also called as infrared sensors as they detect the radiation from an IR transmitter. 
+
 robotics field need several sensors like camera, lidar, radar, Xavier, Ram, SSD
 SSD for storing memory of camera, SSD;s capacity needed as a day needed 필요량, 
 as a personal robots for helping elders for one person as business to showering themselves with robotics' arms need to support other persons' body's weights at least 40kg to 110kg 
