@@ -489,12 +489,14 @@ a mark or line of marks left on a surface, esp. the ground, by a moving animal, 
 다시 적는 것도 방법
 
 
-robotics field important thing is to generate services for help need persons. 
 
+robotics field's important thing is to help people with their needed skills
+such as a person more than aged 65 years, disabled person, etc. 
 
-such as elder persons aged person, disabled person, etc. 
+technology of robotics field are Computer Vision, Natural language processing, Edge computing, Complex event process, HW acceleration, Reinforcement Learning, GANs, etc. 
 
-technology for robotics field was visioning all camera sensors or lidar sensors 
+Computer Vision means that enables computers and systems to derive meaningful information from digital images, videos and other inputs. 
+There are sensors as camera sensors or lidar sensors 
 robotics field need several sensors like camera, lidar, radar, Xavier, Ram, SSD
 SSD for storing memory of camera, SSD;s capacity needed as a day needed 필요량, 
 as a personal robots for helping elders for one person as business to showering themselves with robotics' arms need to support other persons' body's weights at least 40kg to 110kg 
