@@ -511,7 +511,13 @@ other appliances outside of communications, including microwave ovens and garage
 Electromagnetic Field signals can be derived from whenever electric charges are accelerated. This make it possible to produce electromagnetic waves by letting an alternating current flow through a wire, an antenna. The frequency of the waves created in this way equals the frequency of the alternating current. 
 
 Magnet is a material or object that produces a magnetic field. 
+An electromagnet is made by winding an insulated copper wire around a soft iron core either in the shape of a solenoid or U-shape and passing current through it. 
 
+The strength of magnetic field of an electromagnet depends on 
+     1. The number of turns of wire wound around the coil.
+     2. The amount of current flowing through the wire. 
+
+     
 There are sensors as camera sensors or lidar sensors 
 robotics field need several sensors like camera, lidar, radar, Xavier, Ram, SSD
 SSD for storing memory of camera, SSD;s capacity needed as a day needed 필요량, 
