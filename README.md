@@ -540,6 +540,10 @@ are also called as infrared sensors as they detect the radiation from an IR tran
 
 robotics field need several sensors like camera, lidar, radar, Xavier, Ram, SSD
 SSD for storing memory of camera, SSD;s capacity needed as a day needed 필요량, 
+one frame (1920 X 1080) of a video can be took more than 0.5 sec and for a 7 hour it needs at least 50400 frames for a day. 
+one frame of a video can consume more than 60 kbyte as storage. 
+
+
 as a personal robots for helping elders for one person as business to showering themselves with robotics' arms need to support other persons' body's weights at least 40kg to 110kg 
 it can be use in fattest person showering. 
 also it can reduce the 욕창 who always lay down on the bed so cannot move by themselves so it resulted to generate any pains on their backs. 
