@@ -134,8 +134,8 @@ X_test = pd.get_dummies(test.csv[features])
 model 
 
 model = RandomForestClassifier 
-predictions
-PassengerID, Survived 
+predictions 
+PassengerID, Survived  
 convert to csv file
 end line "your submission was successfully saved!"
 
