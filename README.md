@@ -558,6 +558,61 @@ first of all creating any code for setting a robots.
 making hardware of robots as a humanoid or make any appliance of kitchen to sell. as a start business. 
 
 
+
+
+내가 보기엔 리뷰를 보는 건 의미 없음 
+그냥 바로 뛰어 들어가는 게 좋음
+
+
+
+write today's list. 
+and solve with your time. 
+
+
+
+PassengerId 
+Survived 
+1 for survived, 0 for deceased
+
+채권법 총칙
+
+358-483
+1. 채권 의의
+2. 채무 의의
+
+     (1) 급부 의무
+          대가적 견련관계
+          설명서/보증서
+     (2) 부수적 주의의무
+          물건 사용법
+          해제권 인정 여부
+     (3) 보호의무
+          신체 침해
+          숙박계약
+          고객의 신체 위해
+          과실 없음을 주장
+
+3. 책무의 의의
+     일정한 불 이익
+
+
+
+II. 채권의 목적
+     (1) 강학상 급부
+     (2) 금전
+
+
+
+
+
+
+
+
+
+
+
+
+
 변리사 민특상디 개념 및 기출문제 정리 하루 3시간 * 
 민법 하루 626p + 기출 400 문 
 100일의 기적 
