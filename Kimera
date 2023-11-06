@@ -108,12 +108,42 @@ with depth informations
 RGB camera 
 
 depth means infrared vims for measuring the distance between objects and the laser point origin
+metric semantic understanding means a naming all objects in the picture as detected. 
+
+visual inertial SLAM means 
+mesh program for creating mesh points as graphic with picture datas.
 
 
 
+Feature extraction from camera rgb data can reveal tracking mapping results
+Semantic based solutions 
+
+kaggle
+
+test.csv file to confirm which person was survived or not. 
+by train.csv file. 
 
 
+daunting
 
+
+features = pd.get_data.("Pclass", "Sex", "SibSP"
+X = pd.get_dummies(train.csv[features]
+X_test = pd.get_dummies(test.csv[features])
+
+model 
+
+model = RandomForestClassifier 
+predictions
+PassengerID, Survived 
+convert to csv file
+end line "your submission was successfully saved!"
+
+
+which model can be proper at most?
+portfolio as practice all models with valuing or changing some parameters and get vest accuracy. 
+and have a 주관 in which model should be used as other conditions or other problems in society. 
+or in business. 
 
 
 
