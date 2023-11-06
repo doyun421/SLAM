@@ -1,4 +1,7 @@
 
+
+
+
 guard project
 flexible guard clothes with special fabric. 
 delivery robot as free side for elder people when they are shopping some cheap groceries. 
@@ -91,6 +94,58 @@ Visual odometry (VO) is a common solution for obtaining robust and consistent re
 ### Visual Odometry with Loop Closure Detection 
 ### Loop Closure Detection
       
+
+inertial odometry needs to weight balls (추) to let them go where they was in
+so it can measure the speed and time how time consume if they move from first site to other site and come back
+inertial can tell us the measurements as cm/s, sec, else.
+
+Graph as sLAM technic is to positioning the a robots' position as image data 
+pixels' turns. 
+
+3D generator can be defined from depth camera 
+with depth informations 
+
+RGB camera 
+
+depth means infrared vims for measuring the distance between objects and the laser point origin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
