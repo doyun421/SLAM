@@ -662,16 +662,23 @@ Loop Closing with Visually Salient Features
                 If you want a deeper dive into learning about RTK
 
         RTCM 
+        paper about rtk : https://www.unoosa.org/documents/pdf/icg/2021/Tokyo2021/ICG_CSISTokyo_2021_10.pdf
+
         
            
+### u-blox
+        rtk gnss/gps cheap modem company
 
 
 
 
 
-
-
-
+## Conclusion of GPS 
+        name :   ZED - F9P module
+                    ublox company
+                    rtk in Korea
+                    Gallileo GNSS
+                  
 
 
 
