@@ -623,9 +623,65 @@ Loop Closing with Visually Salient Features
         Differences : GPS is traditionally refers to the North American global positioning system, or satellite positioning system. 
         GNSS is a term that refers to the International Multi-Constellation Satellite System. 
         So GNSS typically includes GPS, GLONASS, Baidu, Galileo, and any other constellation system.
-        
-        
+
+### Galilleo (European) in GNSS 
+
+        created by the European Union through the European Space Agency (ESA),
+        operated by the European Union Agency for the Space Programme (EUSPA),
+        [6] headquartered in Prague, Czechia,[7] with two ground operations centres in Fucino, Italy,
+        and Oberpfaffenhofen, Germany.
+        The €10 billion project[4][8] is named after the Italian astronomer Galileo Galilei.
+        One of the aims of Galileo is to provide an independent
+        high-precision positioning system so European political and military authorities do not have to rely on the US GPS, 
+        or the Russian GLONASS systems, which could be disabled or degraded by their operators at any time.
+        [9] The use of basic (lower-precision) Galileo services is free and open to everyone.
+
+
+### RTK
+       meaning : RTK is short for real-time kinematics.
+       A GNSS receiver capable of RTK takes in the normal signals 
+       from the Global Navigation Satellite Systems 
+       along with a correction stream to achieve millimeter-level positional accuracy.
+
+
+        Difference between Gps and RTK 
+                Unlike traditional GPS systems, which rely on data from satellites alone,
+                RTK GPS systems use additional data from a nearby base station
+                to improve the accuracy of the GPS data. This can provide positioning data
+                that is accurate to within centimeters, making it ideal for a wide range of applications.
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                
