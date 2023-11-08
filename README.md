@@ -637,7 +637,7 @@ Loop Closing with Visually Salient Features
         [9] The use of basic (lower-precision) Galileo services is free and open to everyone.
 
 
-### RTK
+### RTK (cm accuracy)
        meaning : RTK is short for real-time kinematics.
        A GNSS receiver capable of RTK takes in the normal signals 
        from the Global Navigation Satellite Systems 
@@ -650,6 +650,20 @@ Loop Closing with Visually Salient Features
                 to improve the accuracy of the GPS data. This can provide positioning data
                 that is accurate to within centimeters, making it ideal for a wide range of applications.
 
+        RTK corrections 
+                Similar to most any GNSS receiver, a receiver capable of receiving RTK corrections takes GNSS location data from GPS (USA),
+                GLONASS (Russia), Beidou (China), and Galileo (Europe) satellites. On top of these signals,
+                
+                an RTK receiver takes in an RTCM correction stream to calculate your location with 1cm accuracy in real time. 
+                
+                RTCM is technically just a government-created protocol that is now used to signify the bytes of 
+                correction data related to GNSS timing anomalies. These bytes of data are what allow us to calculate down
+                to millimeter-level accuracy.
+                If you want a deeper dive into learning about RTK
+
+        RTCM 
+        
+           
 
 
 
