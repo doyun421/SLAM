@@ -616,8 +616,15 @@ Loop Closing with Visually Salient Features
                           c.  the receiver than calculates its distance from each of the satellites it has pinged,
                             triangulating its own current location.
 
+### GNSS antenna
 
+        GNSS : Global Navigation Satellite System
 
+        Differences : GPS is traditionally refers to the North American global positioning system, or satellite positioning system. 
+        GNSS is a term that refers to the International Multi-Constellation Satellite System. 
+        So GNSS typically includes GPS, GLONASS, Baidu, Galileo, and any other constellation system.
+        
+        
 
 
 
