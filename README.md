@@ -1,38 +1,4 @@
 # SLAM
-     
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ## Kimera
@@ -564,31 +530,48 @@ making hardware of robots as a humanoid or make any appliance of kitchen to sell
 
 
 
+지저분한 거 미리 정리해 두고 난 다음에 생각해 보자. 
+그럼 뭐라도 할 마음이 생기겠지
+
+
+
+
+![image](https://github.com/doyun421/SLAM/assets/73266189/b2e091de-9b18-4e10-a89c-0648e1376280)
+
+
+Kimera-Multi
+inter and intra-robot loop clousures 
+mutual or inner robot loop closures
+
+# Loop Closure
+
+https://www.robots.ox.ac.uk/~pnewman/papers/NewmanHoICRA05.pdf
+
+Loop Closing with Visually Salient Features
+
+          1) unknown regions of workspace
+          2) mapped region
+          3) not enough evidence to make a decision
+          4) spurious 그럴싸한, 가짜의
+          
 
 
 
 
 
 
-설거지 처럼 대강이라도 편하게 정리만 해두자. 
-그럼 알아서 하겠지..
 
 
 
 
 
 
+” is the task of deciding whether or not a vehicle has, 
+after an excursion of arbitrary length, 
+returned to a previously visited area.
 
 
-
-
-
-
-
-
-
-
-
+perceptual aliasing 
 
 
 
