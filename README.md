@@ -541,6 +541,7 @@ one frame (1920 X 1080) of a video can be took more than 0.5 sec and for a 7 hou
 one frame of a video can consume more than 60 kbyte as storage. 
 
 
+
 as a personal robots for helping elders for one person as business to showering themselves with robotics' arms need to support other persons' body's weights at least 40kg to 110kg 
 it can be use in fattest person showering. 
 also it can reduce the 욕창 who always lay down on the bed so cannot move by themselves so it resulted to generate any pains on their backs. 
@@ -553,6 +554,43 @@ like roborock company which has vacuum wireless robots for cleaning their living
 first of all creating any code for setting a robots. 
 
 making hardware of robots as a humanoid or make any appliance of kitchen to sell. as a start business. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+설거지 처럼 대강이라도 편하게 정리만 해두자. 
+그럼 알아서 하겠지..
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
