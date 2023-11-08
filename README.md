@@ -530,11 +530,6 @@ making hardware of robots as a humanoid or make any appliance of kitchen to sell
 
 
 
-지저분한 거 미리 정리해 두고 난 다음에 생각해 보자. 
-그럼 뭐라도 할 마음이 생기겠지
-
-
-
 
 ![image](https://github.com/doyun421/SLAM/assets/73266189/b2e091de-9b18-4e10-a89c-0648e1376280)
 
@@ -549,29 +544,54 @@ https://www.robots.ox.ac.uk/~pnewman/papers/NewmanHoICRA05.pdf
 
 Loop Closing with Visually Salient Features
 
-          1) unknown regions of workspace
-          2) mapped region
-          3) not enough evidence to make a decision
-          4) spurious 그럴싸한, 가짜의
-          
+
+
+어느 이게 중요한 듯. 
+그냥 최대한 이걸 해보고 진행해야 수월 한 듯. 
+
+
+
+
+
+### GPS
+        The Global Positioning System (GPS) is a U.S.-owned utility that provides users
+            with positioning, navigation, and timing (PNT) services. 
+        This system consists of three segments:
+            the space segment, the control segment, and the user segment.
+        
+        example : Time - 2023-11-08, Latitude - 34.69888, Longitude - 135.534146, Error - 1, Altitude - 64.00
+        
+### GPS Antenna
+
+        purpose : collecting information of gps
+        meaning : A GPS antenna is a device that receives radio signals from GPS satellites at varying frequencies. 
+        The antenna expands the signals and converts them into electronic signals
+        so that they can be interpreted by a GPS receiver. 
+        The GPS receiver then uses these signals to give an accurate estimate of the receiver's location.
+
+        GPS Antenna Splitter
+                    A GPS splitter is a device that allows you to connect an antenna to two receivers simultaneously.
+        GPS Antenna Input
+                    The GPS antenna input is used for satellite radio and GPS.
+        GPS Antenna Cable
+                    GPS antenna cables, primarily coaxial cables, are wires used to transmit GPS signals 
+                    from a GPS antenna to a GPS receiver.
+        
+
+        GPS Antenna Frequency
+
+                        The antenna frequency is the number of wave cycles per second.
+                        GPS signals are broadcast at sub-2 GHz frequencies 
+                        by using the L-band of the radio frequency spectrum. 
+
+                        Each GPS satellite uses two types of frequencies to transmit data,
+                        L1 (1575.42 Mhz) and L2 (1227.60 MHz). 
 
 
 
 
 
 
-
-
-
-
-
-
-” is the task of deciding whether or not a vehicle has, 
-after an excursion of arbitrary length, 
-returned to a previously visited area.
-
-
-perceptual aliasing 
 
 
 
