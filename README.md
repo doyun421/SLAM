@@ -725,6 +725,10 @@ Q) why do we need additional gnss chip although we had lidar sensor which had a 
 
 that uses laser light to densely sample the surface of the earth, producing highly accurate x,y,z measurements. 
 
+### Gyroscope 
+            ![image](https://github.com/doyun421/SLAM/assets/73266189/c648c69b-612b-4224-83ea-04a3e9da045b)
+
+            
 
 
 
