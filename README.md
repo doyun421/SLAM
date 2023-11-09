@@ -714,8 +714,11 @@ Q) why do we need additional gnss chip although we had lidar sensor which had a 
             2) a scanner
             3) specialized GPS receiver
             
-            Airplanes and helicopters are the most commonly used platforms for acquiring lidar data over broad areas. Two types of lidar are topographic and bathymetric. Topographic lidar typically uses a near-infrared laser to map the land, while bathymetric lidar uses water-penetrating green light to also measure seafloor and riverbed elevations.
-
+                    Airplanes and helicopters are the most commonly used platforms for acquiring lidar data over broad areas.
+                    Two types of lidar are topographic and bathymetric. 
+                    Topographic lidar typically uses a near-infrared laser to map the land,
+                    while bathymetric lidar uses water-penetrating green light to also measure seafloor and riverbed elevations.
+        
 
 
 
