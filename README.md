@@ -692,6 +692,33 @@ Loop Closing with Visually Salient Features
 
 
 
+Storing lidar data
+            Originally, lidar data was only delivered in ASCII format. 
+            With the massive size of lidar data collections, 
+            a binary format called LAS was soon adopted to manage and standardize the way 
+            in which lidar data was organized and disseminated.
+            Now lidar data is commonly represented in LAS. 
+            LAS is a more acceptable file format,
+            because LAS files contain more information and,
+            being binary, can be read by the importer more efficiently.
+
+            
+
+
+Q) why do we need additional gnss chip although we had lidar sensor which had a gps sensor in themselves?
+
+        Lidar's Components
+            A lidar instrument principally consists of
+            
+            1) a laser(source as transmitter)
+            2) a scanner
+            3) specialized GPS receiver
+            
+            Airplanes and helicopters are the most commonly used platforms for acquiring lidar data over broad areas. Two types of lidar are topographic and bathymetric. Topographic lidar typically uses a near-infrared laser to map the land, while bathymetric lidar uses water-penetrating green light to also measure seafloor and riverbed elevations.
+
+
+
+
 
 
 
