@@ -669,10 +669,6 @@ Loop Closing with Visually Salient Features
 ### u-blox
         rtk gnss/gps cheap modem company
 
-
-
-
-
 ## Conclusion of GPS 
         name :   ZED - F9P module
                     ublox company
@@ -680,6 +676,17 @@ Loop Closing with Visually Salient Features
                     Gallileo GNSS
                   
 
+
+
+
+
+
+
+## Lidar
+### Lidar sensor data
+        
+        ![image](https://github.com/doyun421/SLAM/assets/73266189/e31ecbff-9533-4a3c-8c40-52181949f36b)
+        dates/reak-time time/time consumption/angle/speed
 
 
 
