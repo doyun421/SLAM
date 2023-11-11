@@ -546,12 +546,6 @@ Loop Closing with Visually Salient Features
 
 
 
-어느 이게 중요한 듯. 
-그냥 최대한 이걸 해보고 진행해야 수월 한 듯. 
-
-
-
-
 
 ### GPS
         The Global Positioning System (GPS) is a U.S.-owned utility that provides users
@@ -728,7 +722,13 @@ that uses laser light to densely sample the surface of the earth, producing high
 ### Gyroscope 
             ![image](https://github.com/doyun421/SLAM/assets/73266189/c648c69b-612b-4224-83ea-04a3e9da045b)
 
+             Gyroscope Working Principle
+                                            The working principle of a gyroscope is based on gravity. 
+                                            It is explained as the product of angular momentum, 
+                                            which is experienced by the torque on a disc 
+                                            to produce a gyroscopic precession in the spinning wheel.
             
+https://youtu.be/npo7Kgsfvt0
 
 
 
