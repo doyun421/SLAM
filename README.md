@@ -726,6 +726,7 @@ that uses laser light to densely sample the surface of the earth, producing high
                                             The working principle of a gyroscope is based on gravity. 
                                             It is explained as the product of angular momentum, 
                                             which is experienced by the torque on a disc 
+                                            
                                             to produce a gyroscopic precession in the spinning wheel.
             
 https://youtu.be/npo7Kgsfvt0
