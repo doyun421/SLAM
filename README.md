@@ -831,6 +831,18 @@ https://youtu.be/npo7Kgsfvt0
                                 if a moving mass alters the distance between two metal plates,
                                 measuring the change in their capacitance gives a measurement of the force that's acting.
 
+                                https://www.explainthatstuff.com/accelerometers.html
+
+                                
+                    How does a MEMS accelerometer chip work?
+                                The accelerometers you can find inside cellphones clearly
+                                don't have gigantic masses bouncing up and down on springs—you'd never 
+                                fit something so big and clumsy inside a phone! Instead,
+                                cellphone accelerometers are based on tiny microchips 
+                                with all their components chemically etched onto the surface of a piece of silicon. 
+                                Technically, these are called MEMS accelerometers,
+                                where "MEMS" stands for Micro Electro Mechanical Systems (MEMS).
+                                It sounds pretty complex, but it just means a small electrical and mechanical device mounted on a handy silicon chip.
 
 
 
