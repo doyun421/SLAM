@@ -872,10 +872,11 @@ https://youtu.be/npo7Kgsfvt0
                                                                 
 
 
+                    
 
+## Paper : Enhancing Body-Mounted LiDAR SLAM using an IMU-based Pedestrian Dead Reckoning (PDR) Model
 
-
-
+            
 
 
 
