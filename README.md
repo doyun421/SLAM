@@ -734,6 +734,37 @@ https://youtu.be/npo7Kgsfvt0
 
 
 
+### Accelerometer
+
+
+                        Accelerometers can measure changes in linear velocity. 
+                        As most objects can move in three-dimensional space,
+                        it is typical to use three accelerometers mounted orthogonally;
+                        that is, the axis of each accelerometer is at 90 ° to the others. 
+                        They are usually given the labels of X-axis, Y-axis and Z-axis.
+                
+
+
+                            Gyroscopes
+                            
+                            measure rotational velocity, and again,
+                            as most objects are free to rotate in three-dimensional space,
+                            using three gyroscope axes is typical. 
+                            They are also mounted on the object orthogonally,
+                            and aligned as best as possible with the three accelerometer axes.
+
+
+                        
+                          Acceleration = Speed / time
+                          
+                          Acceleration = ( distance / time ) / time
+                        
+                          Acceleration = distance / time2
+                        
+                          Acceleration = distance1 * time-2
+                        
+                        
+                        
 
 
 
