@@ -876,9 +876,36 @@ https://youtu.be/npo7Kgsfvt0
 
 ## Paper : Enhancing Body-Mounted LiDAR SLAM using an IMU-based Pedestrian Dead Reckoning (PDR) Model
 
+            dometry is not available. Furthermore, IMU odometry
+cannot be directly used as replacement for wheel encoder
+odometry in body-mounted platforms due to human motion
+challenging patterns that lead to rapid and large drifts due to
+IMU noise integration. This challenge requires special
+processing of IMU data. Fortunately, significant research has
+been performed to develop reliable human odometry
+algorithms using IMU which is known as Pedestrian Deadreckoning (PDR)[3]. PDR algorithms utilizes human motion
+patterns recognition such as walking along with IMU-based
+Attitude and Heading Reference Systems (AHRS)[4] to
+provide reliable human motion tracking. In this paper, we
+investigate the feasibility of replacing wheel encoders-based
+odometry in SLAM algorithms by IMU-based PDR to support
+and enhance human-body-mounted SLAM platforms.
+In this work, we developed a helmet-mount SLAM
+platform consisting of a lightweight USB powered 2D LiDAR
+sensor sub-$200 and a compact-size USB powered IMU
+sensor. We utilized the popular open-source LiDAR SLAM
+engine, Google Cartographer[5] which is commonly used for
+vehicular platforms. We modified Cartographer SLAM
+engine by integrating PDR model within the tracking modules
+of the SLAM framework to enable reliable and accurate bodymounted SLAM platform. The results are then compared with
+a ground truth trajectory, and the localization results with and
+without the proposed PDR model are evaluated and discussed.
+The evaluations from this study will potentially determine
+which approach is more suitable for human navigation and
+mapping in an indoor search and rescue operations or in a
+GNSS denied environments.
+
             
-
-
 
 
 
