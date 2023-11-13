@@ -845,8 +845,38 @@ https://youtu.be/npo7Kgsfvt0
                                 It sounds pretty complex, but it just means a small electrical and mechanical device mounted on a handy silicon chip.
 
 
+                                Here's a very simplified illustration of what you'd find in one of these semiconductor accelerometers, as they're also known:
 
+                                Simplified illustration of a cantilever-based, capacitive semiconductor accelerometer.
 
+                            (1) Right in the middle, 
+                                we have a red electrode (electrical terminal) that has enough mass 
+                                to move up and down very slightly when you move or tilt the accelerometer.
+                                
+                            (2) The electrode is supported by a tiny beam (cantilever) 
+                                that's rigid enough to hold it but flexible enough to allow it to move.
+                            (3) There's an electrical connection from the cantilever and 
+                                electrode to the outside of the chip so it can be wired into a circuit.
+                                
+                            (4) Below the red electrode, and separated from it by an air gap, 
+                                there's a second electrode (purple). 
+                                The air gap between the two electrodes means the red and purple electrodes work together as a capacitor. 
+                                As you move the accelerometer and the red electrode moves up and down,
+                                the distance between the red and purple electrodes changes, and so does the capacitance between them.
+                                We're talking about amazingly tiny distances here of a few millionths of a meter (µm, microns).
+                                Small bits of insulation (shown as black lines) prevent the red electrode 
+                                from making direct electrical contact with the purple one if the accelerometer experiences a really big force (a sudden jolt).
+                                
+                                
+                                
+                            (5) In exactly the same way, there's a blue electrode above the red electrode and another air gap 
+                                making a second capacitor. 
+                                As before, the distance between the blue and red electrodes (and the capacitance between them) changes 
+                                as you move the accelerometer.
+                                    
+                            (6) The electrodes are connected to more electrical terminals at the edges of the chip, 
+                                again, so it can be wired to a bigger circuit.
+                                                                
 
 
 
