@@ -36,7 +36,7 @@
     
     ideal value of abstraction 4.223232 -> 4.3 existing in thought or as an idea but not having a physical or concrete existence.
     
-    execute pull out 
+    execute pull out 1111
     models of the environment  A, B, C, else
     unprecedent progress  new never done or known before.
     Structure from Motion, gesture
@@ -929,20 +929,47 @@ The geocentric altitude is a type of altitude defined as the difference between 
 ### The difference between NED Coordinates and ECI Coordinates
         
 
+### NED Coordinates 
+                            
+
+
+The north-east-down (NED) system is a noninertial system with its origin fixed at the aircraft or spacecraft center of gravity. Its axes are oriented along the geodetic directions defined by the Earth surface.
+
+The x-axis points north parallel to the geoid surface, in the polar direction.
+
+The y-axis points east parallel to the geoid surface, along a latitude curve.
+
+The z-axis points downward, toward the Earth surface, antiparallel to the surface outward normal n.
+
+Flying at a constant altitude means flying at a constant z above the Earth surface.
 
 
 
 
 
+### ECI Coordinates
 
 
 
+                                    The Earth-centered inertial (ECI) system is non-rotating. For most applications, assume this frame to be inertial, although the equinox and equatorial plane move very slightly over time. The ECI system is considered to be truly inertial for high-precision orbit calculations when the equator and equinox are defined at a particular epoch (e.g. J2000). Aerospace functions and blocks that use a particular realization of the ECI coordinate system provide that information in their documentation. The ECI system origin is fixed at the center of the Earth (see figure).
+                                    
+                                    The x-axis points towards the vernal equinox (First Point of Aries ♈).
+                                    
+                                    The y-axis points 90 degrees to the east of the x-axis in the equatorial plane.
+                                    
+                                    The z-axis points northward along the Earth rotation axis.
+
+### ECEF Coordinates
 
 
+                            
+                                The Earth-center, Earth-fixed (ECEF) system is noninertial and rotates with the Earth. Its origin is fixed at the center of the Earth (see preceding figure).
 
+The x′-axis points towards the intersection of Earth equatorial plane and the Greenwich Meridian.
 
+The y′-axis points 90 degrees to the east of the x’-axis in the equatorial plane.
 
-
+The z′-axis points northward along the Earth rotation axis.
 
 
 
