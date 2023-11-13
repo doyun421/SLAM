@@ -446,13 +446,6 @@ a mark or line of marks left on a surface, esp. the ground, by a moving animal, 
     the amount or distance by which something is out of line
     
 
-일단 내 마음대로 다 적고 최대한 성심성의껏 적고 나서 수정하는 게 제일 마음 편하다. 
-생각보다 나는 똑똑하기에 
-그저 최대한 많이 많이 적을 수 없을 정도로 적고 난 뒤에 
-다시 적는 것도 방법
-
-
-
 robotics field's important thing is to help people with their needed skills
 such as a person more than aged 65 years, disabled person, etc. 
 
