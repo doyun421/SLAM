@@ -913,14 +913,21 @@ GNSS denied environments.
 
 
 
+### ECEF
+                    
+              that represents locations in the vicinity of the Earth (including its surface, interior, atmosphere, and surrounding outer space) as X, Y, and Z measurements from its center of mass.
+
+              Its most common use is in tracking the orbits of satellites and in satellite navigation systems for measuring locations on the surface of the Earth, but it is also used in applications such as tracking crustal (In geology, the crust is the outermost solid shell of a rocky planet, dwarf planet, or natural satellite. It is usually distinguished from the underlying mantle by its chemical makeup; ) motion.
+              
+
+                The distance from a given point of interest to the center of Earth is called the geocentric distance, R = (X2 + Y2 + Z2)0.5, which is a generalization of the geocentric radius, R0
 
 
+The geocentric altitude is a type of altitude defined as the difference between the two aforementioned quantities: h′ = R − R0;[3] it is not to be confused for the geodetic altitude.
 
 
-
-
-
-
+### The difference between NED Coordinates and ECI Coordinates
+        
 
 
 
