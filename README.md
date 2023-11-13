@@ -972,6 +972,36 @@ The y′-axis points 90 degrees to the east of the x’-axis in the equatorial p
 The z′-axis points northward along the Earth rotation axis.
 
 
+Why NED Coordinates used for?
+
+An NED coordinate system is commonly used to specify location relative to a moving aircraft. In this application, the origin and axes of an NED system change continuously. Note that the coordinates are not fixed to the frame of the aircraft.
+
+For example, an aircraft flying into Charles de Gaulle airport has geodetic coordinates (48.9978°, 2.7594°, 699.8683 m). The NED coordinates of the airport with respect to the plane are (1645.8313 m, –15677.1868 m, 555.8221 m).
+
+
+
+### Geodetic Coordinates
+            They include geodetic latitude (north/south) ϕ, longitude (east/west) λ, and ellipsoidal height h (also known as geodetic height[1]).
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
