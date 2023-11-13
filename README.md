@@ -765,7 +765,54 @@ https://youtu.be/npo7Kgsfvt0
                         
                         
                         
+                How do accelerometers work
+                                This equation is the theory behind accelerometers:
+                                they measure acceleration not by calculating
+                                how speed changes over time
+                                but by measuring force.
+                                How do they do that? 
+                                Generally speaking, 
+                                by sensing how much a mass presses on something when a force acts on it.
 
+                                This is something we're all very familiar with when we're in cars. 
+                                Imagine you're sitting in the back seat of a car,
+                                happily minding your own business, and the driver accelerates suddenly
+                                to pass a slow-moving truck. You feel yourself thumping back into the seat. 
+                                Why? Because the car's acceleration makes it move forward suddenly.
+                                You might think you move backward when a car accelerates forward,
+                                but that's an illusion: really what you experience is the car trying 
+                                to move off without you and your seat catching you up from behind!
+
+                                The laws of motion tell us that your body tries
+                                to keep going at a steady speed, but the seat is constantly
+                                pushing into you with a force and making you accelerate instead. 
+                                The more the car accelerates, the more force you feel from your seat—and
+                                you really can feel it! Your brain and body work together 
+                                to make a reasonably effective accelerometer:
+                                the more force your body experiences, the more acceleration 
+                                your brain registers from the difference between your body's movements 
+                                and those of the car. (And it picks up useful clues from other sensations,
+                                including the rate at which moving objects pass by the window,
+                                the change in sound of the car's engine,
+                                the noise of the air rushing past, and so on.)
+                                Moment by moment, you sense changes in acceleration
+                                from changes in sensations on your body, 
+                                not by calculating how far you've traveled and how long it took.
+
+                                And accelerometers work in broadly the same way.
+
+                                Types of accelerometers
+                                There are many different types of accelerometers. 
+                                The mechanical ones are a bit like scaled-down versions of passengers 
+                                sitting in cars shifting back and forth as forces act on them.
+                                They have something like a mass attached to a spring suspended 
+                                inside an outer casing. When they accelerate, the casing moves off
+                                immediately but the mass lags behind and the spring stretches with a force that corresponds to the acceleration. The distance the spring stretches (which is proportional to the stretching force) can be used to measure the force and the acceleration in a variety of different ways. Seismometers (used to measure earthquakes) work in broadly this way, using pens on heavy masses attached to springs to register earthquake forces. When an earthquake strikes, it shakes the seismometer cabinet but the pen (attached to a mass) takes longer to move, so it leaves a jerky trace on a paper chart.
+
+How a mechanical accelerometer works.
+Artwork: The basic concept of a mechanical accelerometer: as the gray accelerometer box moves from side to side, the mass (red blob) is briefly left behind. But the spring connecting it to the box (red zig-zag) soon pulls it back into position and, as it moves, it draws a trace (blue line) on the paper.
+
+Alternative designs of accelerometers measure force not by making a pen trace on paper but by generating electrical or magnetic signals. In piezoresistive accelerometers, the mass is attached to a potentiometer (variable resistor), a bit like a volume control, which turns an electric current up or down according to the size of the force acting on it. Capacitors can also be used in accelerometers to measure force in a similar way: if a moving mass alters the distance between two metal plates, measuring the change in their capacitance gives a measurement of the force that's acting.
 
 
 
