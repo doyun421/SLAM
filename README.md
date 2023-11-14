@@ -578,77 +578,7 @@ mutual or inner robot loop closures
         
 
 
-## Coordinates Convertion
 
-### ECEF
-    
-                      that represents locations in the vicinity of the Earth 
-                      (including its surface, interior, atmosphere, and surrounding outer space) as X, Y, and Z measurements from its center of mass.
-        
-                      Its most common use is in tracking the orbits of satellites and in satellite navigation systems for measuring locations on the surface of the Earth,
-                      but it is also used in applications such as tracking crustal (In geology, the crust is the outermost solid shell of a rocky planet, dwarf planet, or natural satellite. It is usually distinguished from the underlying mantle by its chemical makeup; ) motion.
-                     
-                      The distance from a given point of interest to the center of Earth is called the
-                      ** geocentric distance**,
-                      R = (X2 + Y2 + Z2)0.5, which is a generalization of the geocentric radius, R0
-                    
-                     ** The geocentric altitude** 
-                      is a type of altitude defined as the difference between the two aforementioned quantities: h′ = R − R0;[3] it is not to be confused for the geodetic altitude.
-
-
-                      ### ECEF Coordinates
-                                                                                            
-                                                                The Earth-center, Earth-fixed (ECEF) system is noninertial and rotates with the Earth.
-                                                                Its origin is fixed at the center of the Earth.
-                                                                
-                                                                    The x′-axis points towards the intersection of Earth equatorial plane and the Greenwich Meridian.
-                                                                    The y′-axis points 90 degrees to the east of the x’-axis in the equatorial plane.
-                                                                    The z′-axis points northward along the Earth rotation axis.
-                                                                
-                                                                
-                                                              
-### NED Coordinates 
-                            
-
-
-                        The north-east-down (NED) system
-                                        is a noninertial system with its origin fixed at the aircraft or spacecraft center of gravity (무게중심). 
-                                        Its axes are oriented along the geodetic directions defined by the Earth surface.
-                                       
-                                        The x-axis points north parallel to the geoid(sea level) surface, in the polar direction.     
-                                        The y-axis points east parallel to the geoid surface, along a latitude curve.            
-                                        The z-axis points downward, toward the Earth surface, antiparallel to the surface outward normal n.
-                                        
-                                        Flying at a constant altitude means flying at a constant z above the Earth surface.
-                                        
-                                 Why NED Coordinates used for?
-                                                                                                        
-                                                                                                        An NED coordinate system is commonly used to specify location relative to a moving aircraft. In this application, the origin and axes of an NED system change continuously. Note that the coordinates are not fixed to the frame of the aircraft.
-                                                                                        
-                                                                                        For example, an aircraft flying into Charles de Gaulle airport has geodetic coordinates (48.9978°, 2.7594°, 699.8683 m). The NED coordinates of the airport with respect to the plane are (1645.8313 m, –15677.1868 m, 555.8221 m).
-                                                                                        
-                                                                
-                                                                                               
-
-
-
-### ECI Coordinates
-
-
-
-                                    The Earth-centered inertial (ECI) system is non-rotating. For most applications, assume this frame to be inertial, although the equinox and equatorial plane move very slightly over time. The ECI system is considered to be truly inertial for high-precision orbit calculations when the equator and equinox are defined at a particular epoch (e.g. J2000). Aerospace functions and blocks that use a particular realization of the ECI coordinate system provide that information in their documentation. The ECI system origin is fixed at the center of the Earth (see figure).
-                                    
-                                    The x-axis points towards the vernal equinox (First Point of Aries ♈).
-                                    
-                                    The y-axis points 90 degrees to the east of the x-axis in the equatorial plane.
-                                    
-                                    The z-axis points northward along the Earth rotation axis.
-
-
-
-### Geodetic Coordinates
-            They include geodetic latitude (north/south) ϕ, longitude (east/west) λ, and ellipsoidal height h (also known as geodetic height[1]).
-            
 
 step size	result of Euler's method	error
 1	16.00	38.60
