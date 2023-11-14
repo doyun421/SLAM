@@ -607,30 +607,26 @@ mutual or inner robot loop closures
                                                                 
                                                                 
                                                               
-
-### The difference between NED Coordinates and ECI Coordinates
-        
-
 ### NED Coordinates 
                             
 
 
-The north-east-down (NED) system is a noninertial system with its origin fixed at the aircraft or spacecraft center of gravity. Its axes are oriented along the geodetic directions defined by the Earth surface.
-
-The x-axis points north parallel to the geoid surface, in the polar direction.
-
-The y-axis points east parallel to the geoid surface, along a latitude curve.
-
-The z-axis points downward, toward the Earth surface, antiparallel to the surface outward normal n.
-
-Flying at a constant altitude means flying at a constant z above the Earth surface.
-
-   Why NED Coordinates used for?
-                                                                
-                                                                An NED coordinate system is commonly used to specify location relative to a moving aircraft. In this application, the origin and axes of an NED system change continuously. Note that the coordinates are not fixed to the frame of the aircraft.
-                                                                
-                                                                For example, an aircraft flying into Charles de Gaulle airport has geodetic coordinates (48.9978°, 2.7594°, 699.8683 m). The NED coordinates of the airport with respect to the plane are (1645.8313 m, –15677.1868 m, 555.8221 m).
-                                                                
+                        The north-east-down (NED) system
+                                        is a noninertial system with its origin fixed at the aircraft or spacecraft center of gravity (무게중심). 
+                                        Its axes are oriented along the geodetic directions defined by the Earth surface.
+                                       
+                                        The x-axis points north parallel to the geoid(sea level) surface, in the polar direction.     
+                                        The y-axis points east parallel to the geoid surface, along a latitude curve.            
+                                        The z-axis points downward, toward the Earth surface, antiparallel to the surface outward normal n.
+                                        
+                                        Flying at a constant altitude means flying at a constant z above the Earth surface.
+                                        
+                                 Why NED Coordinates used for?
+                                                                                                        
+                                                                                                        An NED coordinate system is commonly used to specify location relative to a moving aircraft. In this application, the origin and axes of an NED system change continuously. Note that the coordinates are not fixed to the frame of the aircraft.
+                                                                                        
+                                                                                        For example, an aircraft flying into Charles de Gaulle airport has geodetic coordinates (48.9978°, 2.7594°, 699.8683 m). The NED coordinates of the airport with respect to the plane are (1645.8313 m, –15677.1868 m, 555.8221 m).
+                                                                                        
                                                                 
                                                                                                
 
