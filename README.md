@@ -532,25 +532,35 @@ inter and intra-robot loop clousures
 mutual or inner robot loop closures
 
 
-                    
 
-## Paper : Enhancing Body-Mounted LiDAR SLAM using an IMU-based Pedestrian Dead Reckoning (PDR) Model
 
-                                                    dometry is not available. Furthermore, IMU odometry
+
+# SLAM 
+
+### Paper : Enhancing Body-Mounted LiDAR SLAM using an IMU-based Pedestrian Dead Reckoning (PDR) Model
+
+                                        
+                                        Odometry is not available. Furthermore, IMU odometry
                                         cannot be directly used as replacement for wheel encoder
                                         odometry in body-mounted platforms due to human motion
                                         challenging patterns that lead to rapid and large drifts due to
-                                        IMU noise integration. This challenge requires special
-                                        processing of IMU data. Fortunately, significant research has
-                                        been performed to develop reliable human odometry
-                                        algorithms using IMU which is known as Pedestrian Deadreckoning (PDR)[3]. PDR algorithms utilizes human motion
+                                        IMU noise integration. This challenge requires special processing of IMU data. 
+                                        
+                                        Fortunately, 
+                                        significant research has been performed to develop reliable human odometry
+                                        algorithms using IMU which is known as Pedestrian Deadreckoning (PDR)[3]. 
+                                        PDR algorithms utilizes human motion
                                         patterns recognition such as walking along with IMU-based
                                         Attitude and Heading Reference Systems (AHRS)[4] to
-                                        provide reliable human motion tracking. In this paper, we
-                                        investigate the feasibility of replacing wheel encoders-based
+                                        provide reliable human motion tracking. 
+                                        
+                                        In this paper, 
+                                        we investigate the feasibility of replacing wheel encoders-based
                                         odometry in SLAM algorithms by IMU-based PDR to support
                                         and enhance human-body-mounted SLAM platforms.
-                                        In this work, we developed a helmet-mount SLAM
+                                        
+                                        In this work, 
+                                        we developed a helmet-mount SLAM
                                         platform consisting of a lightweight USB powered 2D LiDAR
                                         sensor sub-$200 and a compact-size USB powered IMU
                                         sensor. We utilized the popular open-source LiDAR SLAM
@@ -565,17 +575,15 @@ mutual or inner robot loop closures
                                         mapping in an indoor search and rescue operations or in a
                                         GNSS denied environments.
 
-            
+        
 
 
-
-
-
-
+## Coordinates Convertion
 
 ### ECEF
                     
-                                              that represents locations in the vicinity of the Earth (including its surface, interior, atmosphere, and surrounding outer space) as X, Y, and Z measurements from its center of mass.
+                                              that represents locations in the vicinity of the Earth 
+                                              (including its surface, interior, atmosphere, and surrounding outer space) as X, Y, and Z measurements from its center of mass.
                                 
                                               Its most common use is in tracking the orbits of satellites and in satellite navigation systems for measuring locations on the surface of the Earth, but it is also used in applications such as tracking crustal (In geology, the crust is the outermost solid shell of a rocky planet, dwarf planet, or natural satellite. It is usually distinguished from the underlying mantle by its chemical makeup; ) motion.
                                               
