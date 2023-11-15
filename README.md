@@ -618,6 +618,7 @@ https://kevgildea.github.io/blog/Kinematic-differential-equations/
 
 ## ORB SLAM 
 
+Kaggle/coding test/graduate school/ 
 
 
 To improving accuracy of ML or Data Analysis
