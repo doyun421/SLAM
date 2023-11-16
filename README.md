@@ -626,6 +626,11 @@ To improving accuracy of ML or Data Analysis
     1) 
 
 
+motion planning job as junior 
+earning and saving more than 40 yrs from 60 to 100 to live a life. 
+50 years 23 enough..
+
+
 
 
 
