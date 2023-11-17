@@ -39,3 +39,18 @@ Humanoid Robot Industry
                                                                                     so it's the purpose to find proper model against each domain industry.
 
                                                                                     
+                                                                                    also it is very core to choose correct library against each domain such as pytorch, etc. or keras. 
+
+                                                                                    Nginx, 
+
+
+
+                                                                                                      Keras : needed for smaller datasets ex. which don't have to waste any resource or any data storage like as small test bed or just a toy.
+                                                                                                      PyTorch : can be less than TensorFlow but it should be cheaper than TensorFlow as cost or time consumption. 
+
+
+
+
+
+
+오늘 최대한 다 끝내두고 관련 포트폴리오 작성하고 바로 지원하면 될 거 같아!
