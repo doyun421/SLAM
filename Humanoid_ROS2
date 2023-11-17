@@ -28,5 +28,11 @@ Humanoid Robot Industry
                                                        : lidar, raser, radar, mic, rf signal for communicating with other devices such as phone for remote controlling, 
                                                          camera for visioning, 
 
-
+                        Image Data from camera when they only using delivery robot is they have same specity as load or restaurant or residential apaprtment building 
+                                                                                    and also korea has buildings which are crowded. 
+                                                                                    but the building have similar look so it's hard to distinguish
+                                                                                    so same but similar very it require qutie sophisticated process. 
+                                                                                    it needs detail process modelling. 
                         
+                                                                                    not a 1st order function but those like 4th order function for the detail but it could take more than 2 sec for each images. 
+                                                                                    so it's really hard to processing for real business. 
